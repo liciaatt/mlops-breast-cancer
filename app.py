@@ -69,3 +69,4 @@ def predict(data: TumorInput):
         "prediction": int(prediction),
         "class": CLASSES[prediction]
     }
+
